@@ -122,6 +122,8 @@
 }
 .footer_icon_link:hover {
     text-decoration:none;
+}
+.svg:hover {
     fill: #944BF1;
 }
 

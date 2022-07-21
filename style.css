@@ -2,6 +2,8 @@
     width: 1000px;
     margin: 0 auto;
     margin-bottom: 30px;
+    padding-right: 40px;
+    padding-left: 40px;
 }
 .header {
     display: flex;
@@ -11,8 +13,6 @@
     font-weight: 700;
     font-size: 16px;
     line-height: 21px;
-    margin-left: 40px;
-    margin-right: 40px;
     justify-content: space-between;
 }
 .header__logo {
@@ -30,16 +30,12 @@
 .header_phone {
     margin-left: auto;
     margin-right: 0px;
-    margin-top: 8px;
-}
-.main {
-    margin-left: 40px;            
+    margin-top: 8px;          
 } 
 .main__ac {
     width: 920px;
     height:fit-content;
     margin-bottom: 29px;
-    margin-right: 40px;
     margin-top: 52px;
 }           
 .main_h1 {
@@ -100,7 +96,6 @@
 }        
 .footer {
     display:flex;
-    margin-left: 40px;
     justify-content: space-between;
     align-items: center;                  
 }
@@ -114,7 +109,4 @@
     width:61px;
     height:fit-content;
     margin-bottom: 0px;
-}        
-.footer_social {
-    margin-right: 40px;          
-   }        
+}      

@@ -14,11 +14,11 @@
     line-height: 21px;
     justify-content: space-between;
 }
-.header:link {
+:link {
     text-decoration: none;
     color: black;
 }
-.header:hover {
+.header_phone:hover {
     text-decoration: underline;
     color: #944BF1;
 }

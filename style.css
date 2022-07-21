@@ -91,8 +91,10 @@
     justify-content: center;
     align-items: center;
 }
-.main_button:hover{
+.main_button:hover {
     background-color: #7C3DCD;
+    text-decoration: none;
+    color: white;
 }
 .main_price {
     font-family: 'Rubik';
@@ -117,4 +119,7 @@
     width:61px;
     height:fit-content;
     margin-bottom: 0px;
+}
+.footer_icon_link:hover {
+    text-decoration:none;
 }

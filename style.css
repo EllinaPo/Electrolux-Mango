@@ -22,25 +22,25 @@
     text-decoration: underline;
     color: #944BF1
 }    
-.header_phone:hover {
-    color: #944BF1;
-}
 .header__logo {
     width: 134px;
     height:fit-content;            
 }
 .header__menu {
     display: flex;
-    gap: 19px;
+    gap: 23px;
     padding-left: 0px;
     margin-left: 81px;
     margin-top: 8px;
 }
 .header_phone {
-    margin-left: auto;
+    margin-left: 0px;
     margin-right: 0px;
     margin-top: 8px;          
 } 
+.header_phone:hover {
+    color: #944BF1;
+}
 .main__ac {
     width: 100%;
     height:fit-content;

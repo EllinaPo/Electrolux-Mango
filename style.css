@@ -18,8 +18,11 @@
     text-decoration: none;
     color: black;
 }
-.header_phone:hover {
+.link:hover {
     text-decoration: underline;
+    color: #944BF1
+}    
+.header_phone:hover {
     color: #944BF1;
 }
 .header__logo {

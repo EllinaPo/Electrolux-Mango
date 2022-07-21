@@ -11,10 +11,9 @@
     font-weight: 700;
     font-size: 16px;
     line-height: 21px;
-    align-items: flex-start;
     margin-left: 40px;
     margin-right: 0px;
-    color: black;
+    justify-content: space-between;
 }
 .header__logo {
     width: 134px;

@@ -97,6 +97,7 @@
     font-weight: 600;
     font-size: 32px;
     margin-left: 17px;
+    margin-top: 0px;
 }        
 .footer {
     display:flex;

@@ -20,7 +20,7 @@
 }
 :link:hover {
     text-decoration: underline;
-    color: #944BF1
+    color: #944BF1;
 }    
 .header__logo {
     width: 134px;
@@ -122,4 +122,6 @@
 }
 .footer_icon_link:hover {
     text-decoration:none;
+    fill: #944BF1;
 }
+

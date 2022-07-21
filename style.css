@@ -113,14 +113,6 @@
     font-weight: 300;
     font-size: 16px;             
 }
-.footer_copyright {
-    margin-bottom: 0px;
-    margin-top: 0px;
-}
-.footer_name {
-    margin-top: 2px;
-    margin-bottom: 0px;
-}
 .footer_social_icon {
     width:61px;
     height:fit-content;

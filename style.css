@@ -2,7 +2,10 @@
     width: 1000px;
     margin: 0 auto;
     margin-top: 35px;
-    padding: 0px 40px 0px 40px;
+}
+.div {
+    margin-left: 40px;
+    margin-right: 40px;
 }
 .header {
     display: flex;

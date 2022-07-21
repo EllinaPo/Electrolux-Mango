@@ -32,11 +32,13 @@
     padding-left: 0px;
     margin-left: 81px;
     margin-top: 8px;
+    height: 10px;
 }
 .header_phone {
     margin-left: 0px;
     margin-right: 0px;
-    margin-top: 8px;          
+    margin-top: 8px;  
+    height: 10px;
 } 
 .header_phone:hover {
     color: #944BF1;

@@ -112,4 +112,7 @@
     width:61px;
     height:fit-content;
     margin-bottom: 0px;
-}      
+}
+.footer_social_icon:hover {
+    color: #944BF1;
+}

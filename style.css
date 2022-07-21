@@ -14,7 +14,7 @@
     align-items: flex-start;
     margin-left: 40px;
     margin-right: 40px;
-    
+    color: black;
 }
 .header__logo {
     width: 134px;
@@ -26,6 +26,7 @@
     padding-left: 0px;
     margin-left: 81px;
     margin-top: 8px;
+    
 }
 .header_phone {
     margin-left: auto;

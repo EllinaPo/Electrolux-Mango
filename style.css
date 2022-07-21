@@ -13,6 +13,7 @@
     line-height: 21px;
     align-items: flex-start;
     margin-left: 40px;
+    
 }
 .header__logo {
     width: 134px;
@@ -20,23 +21,13 @@
 }
 .header__menu {
     display: flex;
-}
-.header__list {
-    display: flex;
-    list-style: none;
     gap: 19px;
     padding-left: 0px;
     margin-left: 81px;
     margin-top: 8px;
 }
-.header_ac {
-    color: #944BF1;
-    text-underline-offset: 2px;
-    text-decoration-line: underline;
-    text-decoration-thickness: 0.9px;
-}
 .header_phone {
-    margin-left: 99px;
+    margin-left: auto;
     margin-right: 40px;
     margin-top: 8px;
 }

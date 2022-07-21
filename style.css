@@ -100,7 +100,8 @@
 .footer {
     display:flex;
     justify-content: space-between;
-    align-items: center;                  
+    align-items: center;
+    margin-bottom: 35px;
 }
 .footer_text {
     font-family: 'IBM Plex Sans';

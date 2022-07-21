@@ -1,13 +1,11 @@
 .page {
     width: 1000px;
-    margin: 0 auto;
-    margin-bottom: 30px;
-    padding-right: 40px;
-    padding-left: 40px;
+    margin: 35px 0px 30px 0px;
+    padding: 0px 40px 0px 40px;
 }
 .header {
     display: flex;
-    margin-top: 35px;
+    margin-bottom: 52px;
     font-family: 'IBM Plex Sans';
     font-style: normal;
     font-weight: 700;
@@ -25,7 +23,6 @@
     padding-left: 0px;
     margin-left: 81px;
     margin-top: 8px;
-    
 }
 .header_phone {
     margin-left: auto;
@@ -36,29 +33,25 @@
     width: 100%;
     height:fit-content;
     margin-bottom: 29px;
-    margin-top: 52px;
 }           
 .main_h1 {
     width: 840px;
     height: 193px;
-    left: 40px;
-    top: 859px;
     font-family: 'Rubik';
     font-style: normal;
     font-weight: 700;
     font-size: 60px;
-    margin-top: 0px;
-    margin-bottom: 28px;
     line-height: 111%;
+    margin-bottom: 28px;
 }
 .main_lead {
+    width: 726px;
+    height: 109px;
     font-family: 'IBM Plex Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 27px;
     line-height: 39px; 
-    width: 726px;
-    height: 109px;
     margin-bottom: 36px;           
 }
 .main_cta {
@@ -72,8 +65,6 @@
     stroke: none;
     width: 199px;
     height: 65px;
-    left: 40px;
-    top: 1219px;
     border-radius: 5px;
     border: none;
     font-family: 'Rubik';
